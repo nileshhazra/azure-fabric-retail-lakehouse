@@ -1,0 +1,4 @@
+faker>=24.0.0
+pymssql>=2.2.8; python_version < '3.14'
+pyodbc>=5.0.0
+python-dotenv>=1.0.0
